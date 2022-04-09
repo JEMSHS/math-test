@@ -4,12 +4,12 @@ function validation() {
     var headertext = document.getElementById('logo');
     var textboxtext = document.getElementById('txtbox').value;
   
-    if (textboxtext == 'help') {
-        window.open('https://censor.is-a.dev/help');
+    if (textboxtext == 'poop') {
+        window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html');
   }
 
       if (textboxtext == 'keyyes') {
-      window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html', '_blank');
+      window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html');
   }
 
       if (textboxtext == "github") {
