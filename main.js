@@ -8,7 +8,7 @@ function validation() {
         window.open('https://censor.is-a.dev/help');
   }
 
-      if (textboxtext == 'key15') {
+      if (textboxtext == 'keyyes') {
       window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html', '_blank');
   }
 
