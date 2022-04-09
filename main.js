@@ -8,8 +8,8 @@ function validation() {
         window.open('https://censor.is-a.dev/help');
   }
 
-      if (textboxtext == 'instagram') {
-      window.open('https://instagr.am/webcxge', '_blank');
+      if (textboxtext == 'key15') {
+      window.open('https://p-e-s-d.github.io/pesd-hangout-math/mathhangout.html', '_blank');
   }
 
       if (textboxtext == "github") {
