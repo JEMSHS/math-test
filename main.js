@@ -5,7 +5,7 @@ function validation() {
     var textboxtext = document.getElementById('txtbox').value;
   
     if (textboxtext == 'poop') {
-        window.open('https://pesd.github.io/pesd-hangout-math/mathhangout.html');
+        window.open('https://JEMSHS-hub/mathhangout.html');
   }
 
       if (textboxtext == 'keyyes') {
